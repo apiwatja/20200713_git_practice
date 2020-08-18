@@ -39,3 +39,7 @@ As Kanye West said:
 
 > We're living the future so
 > the present is our past.
+
+Inline code
+I think you should use and
+`<addr>` element here instead.
